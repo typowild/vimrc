@@ -1,0 +1,19 @@
+set number
+set cursorline
+set display=lastline
+set showmatch
+set matchtime=1
+set ignorecase
+set hlsearch
+set tabstop=4
+set shiftwidth=4
+set autoindent
+set smartindent
+set backspace=indent,eol,start
+set wrapscan
+set wildmenu
+set formatoptions+=mM
+set title
+set ruler
+syntax on
+
